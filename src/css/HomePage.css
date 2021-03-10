@@ -1,0 +1,10 @@
+.flex-even-space {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.HomePageContent {
+    padding: 20% 0;
+    text-align: center;
+    min-height: 100vh;
+}

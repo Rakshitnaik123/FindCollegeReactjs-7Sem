@@ -1,0 +1,11 @@
+.Signin {
+    /*padding: 20vh 0;*/
+    /*height: 90vh;*/
+    padding: 20% 0;
+    margin: auto;
+    /*margin-top: 30vh;*/
+
+    min-width: 20em;
+    max-width: 30em;
+    min-height: 100vh;
+}

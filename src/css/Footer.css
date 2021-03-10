@@ -1,0 +1,19 @@
+.FooterFrame {
+    /*width: 100%;*/
+    display: flex;
+    flex-wrap: wrap;
+    /*flex-direction: row;*/
+    justify-content: space-evenly;
+
+}
+
+.ppl-card {
+    padding: 5%;
+}
+
+.Card {
+    min-width: 15rem;
+    max-width: 100%;
+    /*width: 8em;*/
+    text-align: center;
+}

@@ -1,0 +1,19 @@
+.search-div {
+    font-size: 1.2rem;
+    background-color: white;
+    margin: 10px auto;
+    width: 75%;
+    border: thin solid black;
+    border-radius: 30px;
+}
+
+.college-search-bar {
+    margin: 0.5rem;
+}
+
+.roundBorder {
+    margin: 10px auto;
+    width: 65%;
+    border: thin solid black;
+    border-radius: 30px;
+}

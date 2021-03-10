@@ -1,0 +1,36 @@
+.colleges-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    /*align-content: center;*/
+    align-items: flex-start;
+    min-height: 100vh;
+    overflow: auto;
+}
+
+.ClgCard {
+    position: relative;
+    background-color: white;
+    margin: 20px;
+    border: thin solid black;
+    border-radius: 50px;
+    min-width: 20rem;
+    max-width: 20rem;
+    min-height: 15rem;
+    padding: 2rem 2rem;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+.bottom-content {
+    margin-bottom: 10px;
+    position: absolute;
+    bottom: 0;
+}
+
+h4 {
+    word-wrap: break-word;
+    padding: 20% 0;
+}

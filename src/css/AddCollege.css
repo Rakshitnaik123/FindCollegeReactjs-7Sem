@@ -1,0 +1,7 @@
+.checkboxes {
+    display: flex;
+    justify-content: space-around;
+}
+.normal{
+    text-align: left;
+}

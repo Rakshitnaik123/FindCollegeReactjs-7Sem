@@ -1,0 +1,42 @@
+#college-detail {
+    text-align: left;
+}
+
+/*font size*/
+.fontsize {
+    font-size: 150%;
+}
+
+/* Dashed border */
+.dashed {
+    border-top: 3px dashed #bbb;
+}
+
+/* Rounded border */
+.rounded {
+    border-top: 3px solid #bbb;
+    border-radius: 5px;
+}
+
+/* Column container */
+.row {
+    margin: 0;
+}
+
+.centre-h {
+    display: flex;
+    justify-content: center;
+}
+
+.side-content {
+    background-color: #f1f1f1;
+}
+
+.main-content {
+    background-color: white;
+}
+
+#placements-logo {
+    height: 90%;
+    width: 90%;
+}
